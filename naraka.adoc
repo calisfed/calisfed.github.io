@@ -1,0 +1,177 @@
+:toc!:
+:last-update-label!:
+:doctype: article
+:stylesheet: style.css
+
+= Naraka Showdown team builds tracking
+
+Builds from https://dark-zer0.github.io/Showdown/build.html?option=1[dark-zer0], read there for more details
+
+== Oldman
+
+=== Ice Lotus Chain
+
+[cols="<7a,^5a,^6a,^5a,^5a",options="header"]
+|===
+
+|                                    | Attack 4% | Elemental dmg 30% | Windfall 50% | 4xMod+2xWind
+| * [x] &#x2744; Linh liên nở rộ     | 2%        | 27%               |              | Scor1
+| * [x] &#x2744; Nguyên tố liên sinh | 2.6%      | 22.5%             |              | 2xMod 25%
+| * [x] &#x2744; Nguyên tố bùng nổ   | 3.4%      | 30%               |              | 2xMod 25%
+| * [x] &#x2744; Triệu hồi băng chém | 2.4%      | 23%               |              | Mod 25%
+| * [x] &#x2744; Bạo băng quyết      | 2.8%      | 27%               | 50%          |
+| * [x] &#x2744; Nổ băng liên hoàn   | 2.8%      | 24.9%             | 50%          |
+
+|===
+
+=== *Frost Surge &#9734;*
+[cols="<7a,^5a,^6a,^5a,^5a",options="header"]
+|===
+
+|                                    | Attack 4% | Elemental dmg 30% | Windfall 50% | 4xMod+2xWind
+| * [x] &#x2744; Nguyên tố bùng nổ   | 3.4%      | 30%               |              | 2xMod 25%
+| * [x] &#x2744; Gai băng            | 1.8%      | 22%               |              | Mod 25%
+| * [x] &#x2744; Triệu hồi băng chém | 2.4%      | 23%               |              | Mod 25%
+| * [x] &#x2744; Bạo băng quyết      | 2.8%      | 27%               | 50%          |
+| * [x] &#x2744; Bạo băng uyên       | 2.4%      | 24%               |              | Mod 25%
+| * [x] &#x2744; Nổ băng liên hoàn   | 2.8%      | 24.9%             | 50%          |
+
+|===
+
+=== Toxin Surge
+
+[%collapsible]
+====
+[cols="<7a,^5a,^6a,^5a,^5a",options="header"]
+|===
+
+|                                  | Attack 4% | Elemental dmg 30% | Windfall 50% | 4xMod+2xWind
+| * [ ] &#9763; Nguyên tố bùng nổ  |           |                   |              |
+| * [x] &#9763; Triệu hồi độc chém |           |                   |              |
+| * [x] &#9763; Độc tố bùng nổ     |           |                   |              |
+| * [x] &#9763; Khử độc            |           | 22.4%             | 50%          | Mod 25%
+| * [x] &#9763; Thực cốt xuân      |           |                   |              |
+| * [x] &#9763; Chiểu sinh         | 1%        | 12%               | 30%          | Mod 25%
+
+|===
+====
+
+=== Shock Surge
+
+[%collapsible]
+====
+[cols="<7a,^5a,^6a,^5a,^5a",options="header"]
+|===
+
+|                                        | Attack 4% | Elemental dmg 30% | Windfall 50% | 4xMod+2xWind
+| * [x] &#9889; Nguyên tố bùng nổ        |           |                   |              |
+| * [x] &#9889; Chớp lôi thuật           |           |                   |              |
+| * [x] &#9889; Chấn thiên lôi           |           |                   |              |
+| * [x] &#9889; Sấm sét bùng nổ          |           |                   |              |
+| * [x] &#9889; Kháng lôi thuật          |           |                   |              |
+| * [x] &#9889; Triệu hồi thiên lôi chém |           |                   |              |
+
+|===
+
+====
+
+== Hưng
+
+=== Ice Lotus Chain
+[cols="<7a,^5a,^6a,^5a,^5a",options="header"]
+|===
+|                                    | Attack 4% | Elemental dmg 30% | Windfall 50% | 4xMod+2xWind
+| * [x] &#x2744; Nguyên tố bùng nổ   |           |                   |              |
+| * [ ] &#x2744; Triệu hồi băng chém |           |                   |              |
+| * [x] &#x2744; Bạo băng quyết      | 3.2%      | 27%               |              | Mod 25%
+| * [x] &#x2744; Linh liên nở rộ     |           | 30%               | 50%          |
+| * [x] &#x2744; Nguyên tố liên sinh | 3.9%      | 30%               |              |
+| * [x] &#x2744; Nổ băng liên hoàn   |           | 25.5%             |              | Mod 25%
+|===
+
+
+== Nghĩa
+
+=== Ice Lotus Chain
+[cols="<7a,^5a,^6a,^5a,^5a",options="header"]
+|===
+
+|                                           | Attack 4% | Elemental dmg 30%     | Windfall 50% | 4xMod+2xWind
+| * [x] &#x2744; Nguyên tố bùng nổ          | 1.2%      |                       |              |
+| * [ ] &#x2744; Triệu hồi băng chém        |           |                       |              |
+| * [x] &#x2744; Bạo băng quyết             |           | 24% &#9889;->&#x2744; |              |
+| * [x] &#9889; -> &#x2744; Linh liên nở rộ |           | 22.5%                 |              |
+| * [x] &#x2744; Nguyên tố liên sinh        |           | 13.5%                 |              |
+| * [x] &#x2744; Nổ băng liên hoàn          |           | 19.5%                 |              |
+
+|===
+
+
+
+
+////
+====
+
+    ┌──┬─►   ┌──┬──►
+    │  │     │  │
+────┤  ├─────┤  ├────►
+    │  │     │  │
+    └──┴─►   └──┴──►
+
+
+
+
+   ◄──┬──┐   ◄─┬──┐
+      │  │     │  │
+◄─────┤  ├─────┤  ├───
+      │  │     │  │
+   ◄──┴──┘   ◄─┴──┘
+
+
+            ▲
+       ▲    │    ▲
+       ├────┴────┤
+       └────┬────┘
+       ▲    │    ▲
+       ├────┴────┤
+       └────┬────┘
+            │
+
+====
+
+
+
+Successsive Ice Blast [No bang lien hoan]
+Frozen Blast [Bao bang quyet]
+Elemental Surge - Ice [Nguyen to bung no]
+Elemental Lotus [Nguyen to lien sinh]
+Ghastboom [Linh lien no ro]
+Frostbite Chain [Trieu hoi bang chem]
+
+Pestilent Pool: Chieu sinh
+Infectous Touch: Khu doc
+Noxious Blast: Sat chuong
+Venomoust Lotus: Tham doc lien sat
+Toxified Lotus: Chuong thuc linh lien
+Ghastboom: Linh lien no ro
+
+Thunderpull: Chop loi thuat
+Thundercounter: Chan thien loi
+Thundercharge: Sam set bung no
+Thunderproof: Khang loi thuat
+Thunderchain: Trieu hoi thien loi chem
+
+
+
+== Builds
+.Ice Lotus Chain build
+
+====
+            ┌o
+──┐   ┌─┐ ┌─┤
+  o─X─o └─o ├─o
+──┘       └─┤
+            └o
+====
+////
+

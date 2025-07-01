@@ -1,0 +1,106 @@
+/* github-dark-mode.css */
+
+/* Base styles */
+body {
+  background-color: #0d1117;
+  color: #c9d1d9;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, "Helvetica Neue", sans-serif;
+  line-height: 1.6;
+  padding: 20px;
+}
+
+/* Links */
+a {
+  color: #58a6ff;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+
+/* Headings */
+h1, h2, h3, h4, h5, h6 {
+  color: #f0f6fc;
+  margin-top: 24px;
+  margin-bottom: 16px;
+}
+
+/* Code blocks */
+pre, code {
+  background-color: #161b22;
+  color: #c9d1d9;
+  font-family: Consolas, Monaco, "Andale Mono", "Ubuntu Mono", monospace;
+  padding: 4px 8px;
+  border-radius: 6px;
+}
+pre {
+  overflow-x: auto;
+  padding: 12px;
+}
+
+/* Tables */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  background-color: #161b22;
+  color: #c9d1d9;
+  /* text-align: center; */
+}
+
+th, td {
+  border: 1px solid #30363d;
+  padding: 8px;
+}
+
+thead {
+  background-color: #21262d;
+  color: #f0f6fc;
+}
+
+tr:nth-child(even) {
+  background-color: #1c2128;
+}
+
+tr:hover {
+  background-color: #2b3036;
+}
+
+/* Blockquotes */
+blockquote {
+  border-left: 4px solid #30363d;
+  padding: 8px 16px;
+  margin: 16px 0;
+  background-color: #161b22;
+  color: #8b949e;
+}
+
+/* Buttons */
+button {
+  background-color: #238636;
+  color: white;
+  border: none;
+  padding: 10px 16px;
+  border-radius: 6px;
+  cursor: pointer;
+}
+button:hover {
+  background-color: #2ea043;
+}
+
+/* Forms */
+input, textarea {
+  background-color: #0d1117;
+  color: #c9d1d9;
+  border: 1px solid #30363d;
+  padding: 8px;
+  border-radius: 4px;
+}
+
+ul, ol {
+  list-style: none;
+  padding-left: 1;
+}
+
+li {
+  margin-bottom: 8px;
+}
