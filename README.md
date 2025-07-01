@@ -1,5 +1,5 @@
 # calisfed.github.io
 
-![Naraka build](./naraka.adoc)
+![Naraka build](./naraka.html)
 
 
