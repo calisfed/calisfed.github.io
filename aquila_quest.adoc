@@ -1,5 +1,6 @@
 = Aquila quest
 :last-update-label!:
+:toc:
 
 == Thợ rèn
 
