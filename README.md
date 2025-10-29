@@ -1,5 +1,10 @@
 # calisfed.github.io
 
-![Naraka build](./naraka.html)
+[Naraka build](calisfed.github.io/naraka.html)
+
+calisfed.github.io/naraka.html
+
+./naraka.html
+
 
 

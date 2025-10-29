@@ -10,6 +10,8 @@ Builds from https://dark-zer0.github.io/Showdown/build.html?option=1[dark-zer0],
 == Oldman
 
 === Ice Lotus Chain
+
+[cols="<7a,^5a,^6a,^5a,^5a",options="header"]
 |===
 
 |                                    | Attack 4% | Elemental dmg 30% | Windfall 50% | 4xMod+2xWind
