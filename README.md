@@ -2,5 +2,5 @@
 
 [Naraka showdown build](./naraka.html)
 
-[Aquila quest list](./aquila_quest.html)
+[Aquila quest list](./games/aquila_quest.html)
 
