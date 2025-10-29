@@ -1,5 +1,5 @@
-
 = Aquila quest
+:last-update-label!:
 
 == Thợ rèn
 
@@ -41,7 +41,7 @@
 
 == Hàng rong
 
-Lưu ý: tất cả các quest nộp của hàng rong đều yêu cầu *KHÔNG KHÓA* (ko mnua rồi nộp được)
+Lưu ý: tất cả các quest nộp của hàng rong đều yêu cầu *KHÔNG KHÓA* (ko mua rồi nộp được)
 
 1. Nộp 5 *Lạc thiết* (xanh), 5 *Búa thợ rèn* (tím), 5 *Ống mực* (xanh)
 2. Nộp 5 *Kẹo râu rồng* (tím), 5 *Kẹo hồ lô* (tím), 5 *Bánh trung thu* (tím)
