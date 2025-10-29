@@ -61,3 +61,11 @@ Lưu ý: tất cả các quest nộp của hàng rong đều yêu cầu *KHÔNG 
 . Nộp 5 *Thịt bò om* (tím), 5 *Gà ăn mày*
 . Nộp 1 *Thép côn ngô* (đỏ), 1 *Thép thiên hỏa* (đỏ), 1 *Tủy băng* (đỏ), 1 *Thiên tinh truỵ* (đỏ)
 . Nộp 6 minh văn ưu phẩm *Xuyên sơn/Trích tinh tác*, 4 minh văn cực phẩm *Túi khám phá/Trời ban - cuộn dây*
+
+++++
+<style>
+#footer {
+  display: none;
+}
+</style>
+++++
