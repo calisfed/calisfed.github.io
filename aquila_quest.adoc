@@ -43,14 +43,6 @@
 [.big-text]
 *End quest*
 
-++++
-<style>
-.big-text {
-  font-size: 2em;
-}
-</style>
-++++
-
 
 == Hàng rong
 
@@ -58,14 +50,46 @@ Lưu ý: tất cả các quest nộp của hàng rong đều yêu cầu *KHÔNG 
 
 . Nộp 5 *Lạc thiết* (xanh), 5 *Búa thợ rèn* (tím), 5 *Ống mực* (xanh)
 . Nộp 5 *Kẹo râu rồng* (tím), 5 *Kẹo hồ lô* (tím), 5 *Bánh trung thu* (tím)
-. Nộp 5 *Thịt bò om* (tím), 5 *Gà ăn mày*
+. Nộp 5 *Thịt bò om* (tím), 5 *Gà ăn mày* (tím)
 . Nộp 1 *Thép côn ngô* (đỏ), 1 *Thép thiên hỏa* (đỏ), 1 *Tủy băng* (đỏ), 1 *Thiên tinh truỵ* (đỏ)
 . Nộp 6 minh văn ưu phẩm *Xuyên sơn/Trích tinh tác*, 4 minh văn cực phẩm *Túi khám phá/Trời ban - cuộn dây*
 
+
+
+
 ++++
+
 <style>
+
+a {
+  color: #58a6ff;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+
+
+.big-text p {
+  font-size: 1.5em;
+}
+
 #footer {
   display: none;
+}
+
+body {
+  background-color: #0d1117;
+  color: #c9d1d9;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, "Helvetica Neue", sans-serif;
+  line-height: 1.6;
+  padding: 20px;
+}
+
+/* Headings */
+h1, h2, h3, h4, h5, h6 {
+  margin-bottom: 16px;
+  font-weight: bold;
 }
 </style>
 ++++
