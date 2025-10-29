@@ -1,10 +1,6 @@
 # calisfed.github.io
 
-[Naraka build](calisfed.github.io/naraka.html)
+[Naraka showdown build](calisfed.github.io/naraka.html)
 
-calisfed.github.io/naraka.html
-
-./naraka.html
-
-
+[Aquila quest list](calisfed.github.io/aquila_quest.md)
 
