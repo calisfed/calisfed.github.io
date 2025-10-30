@@ -10,13 +10,15 @@
 . Tham gia hoàn thành 5 lần nhiệm vụ *[Hộ tống]*
 . Trong 1 trận đấu, đánh bại 2 tiêu khách phe địch
 . Tích lũy rút lui thành công 3 lần (ít nhất 2 triệu nhật nguyệt kim)
-. Nộp 2 [yellow]#*[Khóa trường thọ bạc mạ vàng]#* và 2 [yellow]#*[Lưỡi đao san hô]#*
+. Nộp 2 [yellow]*[Khóa trường thọ bạc mạ vàng]* và 2 [yellow]*[Lưỡi đao san hô]*
 . Trong [orange]*Hiểm cảnh/Kiếp cảnh*, rút lui bằng *[Xích thủy cốc]* 3 lần
 . Trong [orange]*Hiểm cảnh/Kiếp cảnh*, tích lũy mở rương Thần hỏa đặc biệt 6 lần *(Ẩn cát/tụ sét/đóng băng)*
-. Trong [orange]*Hiểm cảnh/Kiếp cảnh*, tích lũy đánh bại 3 tiêu khách phe địch trong thời gian *[Sơn hải lộ]*, *[Vong ưu lộ]* có hiệu lực
-. Trong [orange]*Hiểm cảnh/Kiếp cảnh*, dùng chìa khóa mở hang báu 1 lần. Trong cùng trận, mở 2 rương Thần hỏa Ưu (tím), 1 rương Thần hỏa cực (vàng)
-. Nộp 2 *Bình túy sinh mộng tử*, 1 *Lư phần tâm nhật nguyệt*
-. Tích lũy mang ra 8 *vũ khí hoặc hộ giáp có phẩm chất từ Cực phẩm trở lên*
+. Trong [orange]*Hiểm cảnh/Kiếp cảnh*, tích lũy đánh bại 3 tiêu khách phe địch
+  trong thời gian [yellow]*Sơn hải lộ*, [yellow]*Vong ưu lộ* có hiệu lực
+. Trong [orange]*Hiểm cảnh/Kiếp cảnh*, dùng chìa khóa mở hang báu 1 lần. Trong
+  cùng trận, mở 2  [magenta]#rương Thần hỏa Ưu# , 1 [yellow]#rương Thần hỏa cực#
+. Nộp 2 [yellow]*Bình túy sinh mộng tử*, 1 [red]*Lư phần tâm nhật nguyệt*
+. Tích lũy mang ra 8 [yellow]*vũ khí hoặc hộ giáp có phẩm chất từ Cực phẩm trở lên*
 
 == Minh văn
 
@@ -24,21 +26,24 @@
 . Tích lũy giá trị chiến lợi phẩm đạt 3 triệu nhật nguyệt kim
 . Tích lũy 10 lần mở *Giá vũ khí*, *Hộp vũ khí*, *Hộp minh văn*
 . Tích lũy 8 lần chiếm lấy/quét sạch *Căn cứ đằng quỷ*
-. Tích lũy mang ra 6 *Di vật cực phẩm trở lên*
-. Nộp 2 [yellow]#*Vòng trói mệnh#*, 2 [yellow]#*Lư hương#*
+. Tích lũy mang ra 6 [yellow]*Di vật cực phẩm trở lên*
+. Nộp 2 [yellow]*Vòng trói mệnh*, 2 [yellow]*Lư hương*
 . Trong [orange]*Hiểm cảnh/Kiếp cảnh*, tích lũy giá trị chiến lợi phẩm đạt 6 triệu
-. Trong [orange]*Hiểm cảnh/Kiếp cảnh*, tích lũy mở 30 rương vật tư bất kỳ tại khu vực *Thành Đường An*
+. Trong [orange]*Hiểm cảnh/Kiếp cảnh*, tích lũy mở 30 rương vật tư bất kỳ tại
+  khu vực [green]*Thành Đường An*
 . Trong [orange]*Hiểm cảnh/Kiếp cảnh*, tích lũy rút lui 3 lần (ít nhất 1 triệu)
-. Trong [orange]*Hiểm cảnh/Kiếp cảnh*, tích lũy mở 30 rương vật tư bất kỳ tại khu vực *Côn Lôn Khư*
+. Trong [orange]*Hiểm cảnh/Kiếp cảnh*, tích lũy mở 30 rương vật tư bất kỳ tại
+  khu vực [green]*Côn Lôn Khư*
 . Trong [orange]*Hiểm cảnh/Kiếp cảnh*, tích lũy mở 18 *Xe chở khoáng sản*, *Kiệu*, *Giếng nước*
-. Trong [orange]*Hiểm cảnh/Kiếp cảnh*, tích lũy mở 30 rương vật tư bất kỳ tại khu vực *Điện Thần Ưng*
+. Trong [orange]*Hiểm cảnh/Kiếp cảnh*, tích lũy mở 30 rương vật tư bất kỳ tại
+  khu vực [green]*Điện Thần Ưng*
 . Trong [orange]*Hiểm cảnh/Kiếp cảnh*, tích lũy 8 lần chiếm lấy/quét sạch *Căn cứ đằng quỷ*
 . Trong [orange]*Hiểm cảnh/Kiếp cảnh*, tích lũy 5 lần hoàn thành *[Trảm nghiệp]* hoặc *[Hoàn trả]* (quest của Đường Tăng)
-. Nộp 2 [yellow]#*Khóa Thiên cơ*#, 1 [red]#*Thuyền đêm hoang tần*#
+. Nộp 2 [yellow]*Khóa Thiên cơ*, 1 [red]*Thuyền đêm hoang tần*
 . Trong [orange]*Kiếp cảnh*, tích lũy giá trị chiến lợi phẩm đạt 8 triệu (giới hạn tướng: báo, chùa, nước, băng, diệu, cáo, rùa, cyra)
 . Trong [orange]*Kiếp cảnh*, tích lũy gây ra 30 000 sát thương cho tiêu khách phe địch (giới hạn tướng: ninh, lửa, yoto,, núi, takeda, hổ, lân, 10k) -- Gây sát thương cho 2 anh ninja trong Côn Lôn/Đường An cũng tính
-. Trong [orange]#*Kiếp cảnh#*, rút lui thành công 5 lần (giới hạn tướng: matari, cát, vô trần, gián, zai, hadi, lil, mộng)
-. Trong [orange]#*Kiếp cảnh*#, tích lũy 8 lần dùng Chìa khóa mở hang báu (hang Khotan tính 2)
+. Trong [orange]*Kiếp cảnh*, rút lui thành công 5 lần (giới hạn tướng: matari, cát, vô trần, gián, zai, hadi, lil, mộng)
+. Trong [orange]*Kiếp cảnh*, tích lũy 8 lần dùng Chìa khóa mở hang báu (hang Khotan tính 2)
 
 *End quest*
 
@@ -47,12 +52,12 @@
 
 Lưu ý: tất cả các quest nộp của hàng rong đều yêu cầu *KHÔNG KHÓA* (ko mua rồi nộp được)
 
-. Nộp 5 [cyan]#*Lạc thiết*#, 5 [magenta]#*Búa thợ rèn*#, 5 [cyan]#*Ống mực*#
-. Nộp 5 [magenta]#*Kẹo râu rồng#*, 5 [magenta]#*Kẹo hồ lô#*, 5 [magenta]#*Bánh trung thu*#
-. Nộp 5 [magenta]#*Thịt bò om*#, 5 [magenta]#*Gà ăn mày*#
-. Nộp 1 [red]#*Thép côn ngô*#, 1 [red]#*Thép thiên hỏa*#, 1 [red]#*Tủy băng*#, 1 [red]#*Thiên tinh truỵ*#
-. Nộp 6 minh văn ưu phẩm [magenta]#*Xuyên sơn/Trích tinh tác#*, 4 minh văn cực
-  phẩm [yellow]#*Túi khám phá/Trời ban - cuộn dây#*
+. Nộp 5 [cyan]*Lạc thiết*, 5 [magenta]*Búa thợ rèn*, 5 [cyan]*Ống mực*
+. Nộp 5 [magenta]*Kẹo râu rồng*, 5 [magenta]*Kẹo hồ lô*, 5 [magenta]*Bánh trung thu*
+. Nộp 5 [magenta]*Thịt bò om*, 5 [magenta]*Gà ăn mày*
+. Nộp 1 [red]*Thép côn ngô*, 1 [red]*Thép thiên hỏa*, 1 [red]*Tủy băng*, 1 [red]*Thiên tinh truỵ*
+. Nộp 6 minh văn ưu phẩm [magenta]*Xuyên sơn/Trích tinh tác*, 4 minh văn cực
+  phẩm [yellow]*Túi khám phá/Trời ban - cuộn dây*
 
 
 
