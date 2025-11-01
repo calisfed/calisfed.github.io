@@ -44,7 +44,8 @@
 . Trong [orange]*Kiếp cảnh*, rút lui thành công 5 lần (giới hạn tướng: matari, cát, vô trần, gián, zai, hadi, lil, mộng)
 . Trong [orange]*Kiếp cảnh*, tích lũy 8 lần dùng Chìa khóa mở hang báu (hang Khotan tính 2)
 
-*End quest*
+
+[big-text]*End quest*
 
 
 == Hàng rong
@@ -56,8 +57,8 @@ Lưu ý: tất cả các quest nộp của hàng rong đều yêu cầu *KHÔNG 
 . Nộp 5 [magenta]*Thịt bò om*, 5 [magenta]*Gà ăn mày*
 . Nộp 1 [red]*Thép côn ngô*, 1 [red]*Thép thiên hỏa*, 1 [red]*Tủy băng*, 1 [red]*Thiên tinh truỵ*
 . Nộp 6 minh văn ưu phẩm [magenta]*Xuyên sơn/Trích tinh tác*, 4 minh văn cực phẩm [yellow]*Túi khám phá/Trời ban - cuộn dây*
-. Nộp 4 [magenta]*Hộ giáp Ưu phảm*, 2 [magenta]*Túi đồ Ưu phảm*
-
+. Nộp 4 [magenta]*Hộ giáp Ưu phẩm*, 2 [magenta]*Túi đồ Ưu phẩm*
+. Nộp 2 [magenta]*Ưu phẩm Đại đao, Trảm mã, Thái đao, Hoành đao, Song kích, Song đao hoặc Trường kiêm*, 2 [magenta]*Vũ khí tầm xa ưu phâm*
 
 
 
@@ -89,7 +90,7 @@ a:hover {
 
 
 .big-text p {
-  font-size: 1.5em;
+  font-size: 2em;
 }
 
 #footer {
