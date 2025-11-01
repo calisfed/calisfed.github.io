@@ -15,8 +15,7 @@
 . Trong [orange]*Hiểm cảnh/Kiếp cảnh*, tích lũy mở rương Thần hỏa đặc biệt 6 lần *(Ẩn cát/tụ sét/đóng băng)*
 . Trong [orange]*Hiểm cảnh/Kiếp cảnh*, tích lũy đánh bại 3 tiêu khách phe địch
   trong thời gian [yellow]*Sơn hải lộ*, [yellow]*Vong ưu lộ* có hiệu lực
-. Trong [orange]*Hiểm cảnh/Kiếp cảnh*, dùng chìa khóa mở hang báu 1 lần. Trong
-  cùng trận, mở 2  [magenta]#rương Thần hỏa Ưu# , 1 [yellow]#rương Thần hỏa cực#
+. Trong [orange]*Hiểm cảnh/Kiếp cảnh*, dùng chìa khóa mở hang báu 1 lần. Trong cùng trận, mở 2  [magenta]#rương Thần hỏa Ưu# , 1 [yellow]#rương Thần hỏa cực#
 . Nộp 2 [yellow]*Bình túy sinh mộng tử*, 1 [red]*Lư phần tâm nhật nguyệt*
 . Tích lũy mang ra 8 [yellow]*vũ khí hoặc hộ giáp có phẩm chất từ Cực phẩm trở lên*
 
@@ -56,8 +55,8 @@ Lưu ý: tất cả các quest nộp của hàng rong đều yêu cầu *KHÔNG 
 . Nộp 5 [magenta]*Kẹo râu rồng*, 5 [magenta]*Kẹo hồ lô*, 5 [magenta]*Bánh trung thu*
 . Nộp 5 [magenta]*Thịt bò om*, 5 [magenta]*Gà ăn mày*
 . Nộp 1 [red]*Thép côn ngô*, 1 [red]*Thép thiên hỏa*, 1 [red]*Tủy băng*, 1 [red]*Thiên tinh truỵ*
-. Nộp 6 minh văn ưu phẩm [magenta]*Xuyên sơn/Trích tinh tác*, 4 minh văn cực
-  phẩm [yellow]*Túi khám phá/Trời ban - cuộn dây*
+. Nộp 6 minh văn ưu phẩm [magenta]*Xuyên sơn/Trích tinh tác*, 4 minh văn cực phẩm [yellow]*Túi khám phá/Trời ban - cuộn dây*
+. Nộp 4 [magenta]*Hộ giáp Ưu phảm*, 2 [magenta]*Túi đồ Ưu phảm*
 
 
 
