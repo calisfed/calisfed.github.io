@@ -59,8 +59,7 @@
 10. Trong **[Hiểm cảnh/Kiếp cảnh]{.orange}**, tích lũy mở 30 rương vật
     tư bất kỳ tại khu vực **[Côn Lôn Khư]{.green}**
 
-11. Trong **[Hiểm cảnh/Kiếp cảnh]{.orange}**, tích lũy mở 18 **Xe chở
-    khoáng sản**, **Kiệu**, **Giếng nước**
+11. Trong **[Hiểm cảnh/Kiếp cảnh]{.orange}**, tích lũy mở 18 **Xe chở khoáng sản**, **Kiệu**, **Giếng nước**
 
 12. Trong **[Hiểm cảnh/Kiếp cảnh]{.orange}**, tích lũy mở 30 rương vật
     tư bất kỳ tại khu vực **[Điện Thần Ưng]{.green}**
@@ -110,12 +109,15 @@ mua rồi nộp được)
 5.  Nộp 6 minh văn ưu phẩm **[Xuyên sơn/Trích tinh tác]{.magenta}**, 4
     minh văn cực phẩm **[Túi khám phá/Trời ban - cuộn dây]{.yellow}**
 
-.cyan { color: rgb(0,180,255); } .red { color: rgb(255,0,0); } .magenta
-{ color: rgb(255,0,255); } .orange{ color: rgb(255,120,0); } a { color:
-#58a6ff; text-decoration: none; } a:hover { text-decoration: underline;
-} .big-text p { font-size: 1.5em; } #footer { display: none; } body {
-background-color: #0d1117; color: #c9d1d9; font-family: -apple-system,
-BlinkMacSystemFont, \"Segoe UI\", Roboto, Oxygen, Ubuntu, \"Helvetica
-Neue\", sans-serif; line-height: 1.6; padding: 20px; } /\* Headings \*/
-h1, h2, h3, h4, h5, h6 { color: #c9d1d9; margin-bottom: 16px;
-font-weight: bold; } #header \> h1:first-child { color: white; }
+
+<style>
+r { color: Red }
+o { color: Orange }
+g { color: Green }
+</style>
+
+# TODOs:
+
+- <r>TODO:</r> Important thing to do
+- <o>TODO:</o> Less important thing to do
+- <g>DONE:</g> Breath deeply and improve karma
